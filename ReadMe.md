@@ -49,7 +49,7 @@ https://github.com/learnwithpassion/product-catalog-mgmt-biz-services/blob/main/
    # US-03 (DB setup (Schema/DDL)) 
     
    Also we can have 
-   # US-NFR (eg: Performance,Security)   - This can be baked into the a task in functional user-stories also instead of standalone user story. 
+   # US-NFR (eg: Performance,Security)   - This can be baked into  functional user-stories as Tasks  instead of standalone user story. 
  
  
   For each user story , we can have the below **Tasks** under the User Stories based on the context/need. 
