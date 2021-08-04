@@ -5,7 +5,7 @@ This is a Sample Springboot project exposing a Rest API to Get List of Products 
 ## 2a.Approach-1 : System Arch Diagram
 ![2a: Approach-1 : System Arch Diagram](Documentation/Approach_1_Using_Lambda_Serverless.png)
 
-## 2b.Approach-1 : System Arch Diagram
+## 2b.Approach-2 : System Arch Diagram
 ![2b: Approach-2 : System Arch Diagram](/Documentation/Approach_2_Using_EC2.png)
 
 ## 3:Sequence Diagram
@@ -13,7 +13,6 @@ This is a Sample Springboot project exposing a Rest API to Get List of Products 
 
 ## 4:DataModel:
   ![4.DataModel](Documentation/DataModel.png)
-
 
 
 ## Project Execution Process :
