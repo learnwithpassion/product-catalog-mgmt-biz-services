@@ -39,11 +39,11 @@ This is a Sample Springboot project exposing a Rest API to Get List of Products 
  
  
   For each user story , we can have the below **Tasks** created based on the need for the applicable stories. 
-    1) Analyze 
-    2) Build 
-    3) Test 
-    4) Review  
-    5) Deploy 
-    6) Release 
+  ## 1) Analyze 
+  ## 2) Build 
+  ## 3) Test
+  ## 4) Review 
+  ## 5) Deploy 
+  ## 6) Release
     
 
