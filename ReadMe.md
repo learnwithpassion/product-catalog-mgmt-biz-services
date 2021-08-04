@@ -25,7 +25,7 @@ This is a Sample Springboot project exposing a Rest API to Get List of Products 
  In this context, it makes sense to split by individual business functions (i.e API's which support different business capabilities). \
   ## Feature-F123 : Product Catalog Management \
   ## US-1 (GET Products) \
-  ## US-2 (ADD Product)  \
+  ## US-2 (ADD Product) \
   ## US-3 (UPDATE Product) \
   ## US-4 (DELETE Product) \
     //Below are the Tech enabler stories which are needed before functional stories can be delivered. \
