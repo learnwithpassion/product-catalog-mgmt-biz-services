@@ -1,4 +1,4 @@
-## This is a repo related to Project Catalog Management demo biz services.
+## This is a repo related to Product Catalog Management demo biz services.
 
  I). Below is the documentation covering the High level Context/Arch/Design/API Documentation/Execution Process.
  
