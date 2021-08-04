@@ -2,8 +2,12 @@
 
  I). Below is the documentation covering the High level Context/Arch/Design/API Documentation/Execution Process.
  
- II). Codebase has a working Rest API exposed a GET Api to get List of Products.
-           (Springboot project exposing a Rest API to Get List of Products by an Optional Criteria attribute.) This is a gradle project. Can be imported as Grade Project and run on local workspace to test.  End-point to test after running gradle project in local. [http://localhost:8080/api/products?category=Kitchen]
+ II). Codebase has a working Rest API exposed to get List of Products from a stubbed dataset.
+           (Springboot project with a Rest API to Get List of Products by an Optional "category" attribute. This could be made generic as searchcriteriaName/Value pair also 
+            instead).
+           This is a gradle project. Can be imported as Grade Project and run on local workspace to test.  
+           End-point to test after running gradle project in local. [http://localhost:8080/api/products?category=Kitchen]
+
 
 ## 1.High Level Context
 ![1.High Level Context](Documentation/High_Level_Context.png)
