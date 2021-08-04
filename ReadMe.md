@@ -13,9 +13,14 @@ This is a Sample Springboot project exposing a Rest API to Get List of Products 
 
 ## 4:DataModel:
   ![4.DataModel](Documentation/DataModel.png)
+  
+  
+# 5:API Documentation : 
+https://github.com/learnwithpassion/product-catalog-mgmt-biz-services/blob/main/Documentation/Sample_API_Documentation.pdf
 
 
-## Project Execution Process :
+
+## 6:Project Execution Process :
 
   I would create  Jira Tickets/Rally User stories under the Product Catalog Mmgt Feature as below : 
   
@@ -45,7 +50,4 @@ This is a Sample Springboot project exposing a Rest API to Get List of Products 
    # 5) Deploy 
    # 6) Release
     
-
-
-https://github.com/learnwithpassion/product-catalog-mgmt-biz-services/blob/main/Documentation/Sample_API_Documentation.pdf
 
