@@ -1,7 +1,6 @@
 This is a Sample Springboot project exposing a Rest API to Get List of Products by an Optional Criteria attribute.
 
-! [1.High Level Context] (../Documentation/High_Level_Context.png)
-
+![1.High Level Context] (/Documentation/High_Level_Context.png)
 
 @/Documentation/Approach_1_Using_Lambda_Serverless.png
 
